@@ -1,4 +1,12 @@
-# Hi there 👋
+# Hi there! 👋🏼
+
+Me llamo **Enrique**, y _cuando no estoy cantando_ 🎤 _o tocando_ 🎸 _en mi banda de rock_ 🤘🏼 suelo estar tecleando algo 🧑🏻‍💻.
+
+Soy _frontend en Minsait_ (by Indra), y trabajo a diario con tecnologías como **HTML**, **CSS**, **jQuery** o **JavaScript**. Me he especializado en llevar diseño a la web, ya sea directamente con HTML, CSS y JavaScript, o creando themes para varios CMS como **Liferay**, **WordPress** o **Drupal**; es mi especialidad, ya que _comencé mi carrera profesional como diseñador gráfico_.
+
+Me encantan los **estándares web**, y soy un firme defensor de ellos. Creo que podemos lograr que Internet sea un lugar agradable y divertido en el que todos nos sintamos agusto, en el que la información esté accesible para todos, y esto solo puede lograrse mediante los estándares web.
+
+Un placer ♥️
 
 <!--
 **bosspetta/bosspetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
