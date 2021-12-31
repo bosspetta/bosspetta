@@ -1,4 +1,14 @@
-# Hi there! 👋🏼
+# 🇺🇸 Hi there! 👋🏼
+
+My name is **Enrique**, and _when I'm not singing_ 🎤 _or playing_ 🎸, I'm usually coding something.
+
+I am _frontend at Minsait_ (by Indra), and I work daily with technologies such as **HTML**, **CSS**, **jQuery**, or **JavaScript**. I have specialized in bringing design to the web, either directly with HTML, CSS, and JavaScript, or creating themes for various CMS such as **Liferay**, **WordPress**, or **Drupal**; it is my specialty since I started my professional career as a _graphic designer_.
+
+I love **web standards**, and I am a strong advocate of them. I believe that we can make the Internet a fun and enjoyable place where we all feel comfortable, where information is accessible to everyone, and this can only be achieved through web standards.
+
+A pleasure ♥️
+
+# 🇪🇸 ¡Hola! 👋🏼
 
 Me llamo **Enrique**, y _cuando no estoy cantando_ 🎤 _o tocando_ 🎸 _en mi banda de rock_ 🤘🏼 suelo estar tecleando algo 🧑🏻‍💻.
 
