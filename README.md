@@ -8,6 +8,12 @@ Me encantan los **estándares web**, y soy un firme defensor de ellos. Creo que 
 
 Un placer ♥️
 
+## Technologies
+
+![Technologies & Tools HTML](https://img.shields.io/badge/markup%20-HTML5-red?&logo=html5)
+![Technologies & Tools CSS](https://img.shields.io/badge/style%20-CSS3-%239cf?&logo=css3)
+![Technologies & Tools JavaScript](https://img.shields.io/badge/code%20-JavaScript-yellow?&logo=javascript)
+
 <!--
 **bosspetta/bosspetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
