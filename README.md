@@ -12,7 +12,16 @@ Un placer ♥️
 
 ![Technologies & Tools HTML](https://img.shields.io/badge/markup%20-HTML5-red?&logo=html5)
 ![Technologies & Tools CSS](https://img.shields.io/badge/style%20-CSS3-%239cf?&logo=css3)
+![Technologies & Tools jQuery](https://img.shields.io/badge/code-jQuery-informational?&logo=jquery)
 ![Technologies & Tools JavaScript](https://img.shields.io/badge/code%20-JavaScript-yellow?&logo=javascript)
+
+### Tools
+
+![Technologies & Tools Sass](https://img.shields.io/badge/style-sass-ff69b4?&logo=sass)
+![Technologies & Tools Git](https://img.shields.io/badge/code-Git-orange?&logo=git)
+![Technologies & Tools Freemarker](https://img.shields.io/badge/code-Freemarker-blue)
+![Technologies & Tools Sass](https://img.shields.io/badge/code-Vim-green?&logo=vim)
+![Technologies & Tools Sass](https://img.shields.io/badge/code-Terminal-yellowgreen)
 
 <!--
 **bosspetta/bosspetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
