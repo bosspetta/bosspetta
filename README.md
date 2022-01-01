@@ -32,6 +32,7 @@ Un placer ♥️
 ![Technologies & Tools Freemarker](https://img.shields.io/badge/code-Freemarker-blue)
 ![Technologies & Tools Sass](https://img.shields.io/badge/code-Vim-green?&logo=vim)
 ![Technologies & Tools Sass](https://img.shields.io/badge/code-Terminal-yellowgreen)
+![Technologies & Tools Bootstrap](https://img.shields.io/badge/style-Bootstrap-blueviolet?&logo=bootstrap)
 
 <!--
 **bosspetta/bosspetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
